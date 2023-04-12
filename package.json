@@ -1,0 +1,12 @@
+{
+  "name": "step25a_class_decorators",
+  "version": "1.0.0",
+  "description": "Read this: Chapter 8 of Learning TypeScript http://www.amazon.com/Learning-TypeScript-Remo-H-Jansen/dp/1783985542/ref=sr_1_1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
